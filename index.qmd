@@ -9,7 +9,7 @@ about:
 ::: {#me}
 ## Goals
 
-Teach the class to host webpage and projects using GitHub.
+Figure out what the fuck is going on
 
 ## Education
 
